@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Siksa Neraka</item>
+        <item>Malam Para jahanam</item>
+        <item>Sijjin</item>
+        <item>Trinil</item>
+        <item>Khanzab</item>
+        <item>Waktu Magrib</item>
+        <item>Ghost Writer</item>
+        <item>Sewu Dino</item>
+        <item>Suzzanna</item>
+        <item>The Nun II </item>
+        <item>Kalian Pantas Mati</item>
+        <item>Qorin</item>
+        <item>The Doll 3</item>
+        <item>Ivanna</item>
+        <item>Qodrat</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Siksa Neraka merupakan film yang bergenre horor dan supranatural yang mengangkat tema kehidupan setelah mati dan konsep siksaan di neraka. Film ini mungkin mengisahkan perjalanan seorang karakter utama yang mengalami pengalaman pahit setelah kematian, menjelajahi alam baka dan menghadapi konsekuensi dari perbuatannya selama hidup.
+            Deskripsi film ini mungkin mencakup suasana gelap, misteri, dan ketegangan yang dibangun melalui pengaturan visual dan audio. Cerita mungkin mencoba menyajikan gambaran neraka sebagai tempat yang menakutkan dan penuh dengan siksaan yang menakjubkan. Karakter-karakter mungkin berhadapan dengan makhluk-makhluk supranatural atau entitas jahat yang mewakili kejahatan dan dosa.</item>
+
+        <item>Film Malam Para Jahanam mengisahkan tentang sebuah desa yang dilanda dendam dari ratusan teror roh jahat yang akan terjadi setiap tahunnya selama tiga malam, dimana malam tersebut diyakini sebagai malam paling berbahaya.
+            Sumber Artikel berjudul "Sinopsis Film Malam Para Jahanam: Teror Tiga Malam Paling Berbahaya, Lengkap dengan Jadwal Tayang, selengkapnya dengan </item>
+
+        <item>Film Sijjin merupakan film yang menceritakan tentang kiriman 5 teror malam. Terror tersebut dibuat oleh Irma (Anggika Bolsterli) yang jatuh cinta kepada sepupunya sendiri yaitu Galang (Ibrahim Risyad).
+            Galang yang telah memiliki istri dan anak sangat sayang kepada mereka, dan menganggap Irma hanya sebagai sepupunya saja. Oleh karena itu, Irma sangat terobsesi ingin menjadi perempuan satu-satu nya di hidup Galang, bahkan ingin dinikahi.
+            ca artikel detikjatim, "Sinopsis Film Sijjin: Teror Dukun 5 Malam Rebut Suami Orang</item>
+
+        <item>Film Trinil Balekno Gembungku mengisahkan sepasang suami istri yakni Rara dan Sutan yang siap untuk menjalani hidup baru setelah berbulan madu.
+            Rara sendiri merupakan pewaris sebuah kebun teh yang luas di Jawa Tengah. Warisan tersebut diturunkan dari sang ayahnya yang berdarah Belanda,
+            William Saunder. Ayah Rara sangat mencintai Indonesia.</item>
+
+        <item>Kisah film Khanzab tersebut mengusung latar peristiwa pembantaian dukun santet di Banyuwangi pada 1988. Kala itu, Rahayu (Yasamin Jasem) yang masih kecil sudah harus menghadapi kenyataan sang ayah menjadi korban.
+            Baca artikel CNN Indonesia "Sinopsis Khanzab, Teror Seram Jin Pengganggu Salat" selengkapnya di sini. Ayah Rahayu dituduh sebagai dukun santet. Sehingga, ia dipenggal. Sementara itu, Rahayu menjadi trauma berat
+            karena situasi tersebut dan memutuskan pergi meninggalkan Banyuwangi bersama ibu tiri dan adiknya. Mereka pindah ke rumah masa kecil Rahayu di kawasan Jetis.
+            </item>
+
+        <item>Film Waktu Magrib ini mengangkat mitos yang sudah lama dipercaya oleh sebagian besar masyarakat Indonesia, yaitu tentang sakralnya waktu maghrib. Mitos ini relevan dengan kalangan para orang tua dan anak-anak. Jika anak-anak
+            masih berada di luar rumah dan mangkir dari kewajiban beribadah saat waktu maghrib tiba, anak-anak tersebut akan diculik oleh hantu.Mitos tersebut direpresentasikan di dalam film ini dengan pendekatan yang sesuai
+            dengan kehidupan sehari-hari. Karena itu, diharapkan film ini dapat membuat setiap penontonnya merasa relate dan dapat mengambil nilai moral yang ada di film WAKTU MAGHRIB.</item>
+
+        <item>Seorang perempuan bernama Naya yang diperankan Tatjana Saphira hidup bersama adiknya yang bernama Darto. Keduanya tengah mencari kontrakan baru sebagai tempat mereka tinggal. Keduanya hidup bersama dengan perekonomian
+            yang terbatas. Naya pun harus berusaha untuk menyekolahkan adiknya dan memenuhi kebutuhan mereka sehari-hari. Pada suatu ketika, mereka pun menemukan rumah kontrakan dengan harga terjangkau. Rumah kontrakan milik Pak Harja
+            (Slamet Rahardjo) tersebut terlihat cukup gelap tetapi mereka tetap menempatinya karena harga yang terjangkau. Ketika berpindah ke rumah kontrakan itu, keduanya mendapat tatapan sinis dari para tetangga. Para tetangga merasa
+            heran dan aneh bahwa Naya dan Darto menempati rumah tersebut. Ternyata tatapan aneh tersebut disebabkan pula karena rumah itu sudah lama tidak ditempati. Para tetangga pun curiga bahwa rumah itu berhantu. Setelah beberapa waktu
+            menempati rumah kontrakan itu, Naya dan Darto pun mengalami hal mistis. Keduanya mengalami teror dari para penghuni yang merupakan makhluk halus di kontrakan tersebut.
+        </item>
+
+        <item>Sewu Dino Berkisah tentang seorang perempuan desa bernama Sri. Sri berkeinginan untuk bekerja di luar kota karena menurutnya tidak ada pekerjaan yang cukup menghasilkan di desa. Kemudian, kabar baik menghampiri Sri. Tetangganya yang bernama
+            Bu Menik menyampaikan bahwa ada informasi lowongan pekerjaan  dari Griya Zainah (Agen Penyalur Pembantu Rumah Tangga Setelah itu, tibalah saatnya Sri datang ke Griya Zainah untuk proses seleksi. Saat proses seleksi Sri diberikan pertanyaan
+            yang cukup aneh. Pertanyaan tersebut berkaitan dengan hari lahir Sri. Hari Jumat Kliwon yang merupakan hari lahir Sri ternyata menjadi salah satu kriteria yang dicari oleh pihak penyalur.</item>
+
+        <item>Suzzanna: Malam Jumat Kliwon berkisah tentang Suzzanna (Luna Maya) yang hidup bahagia bersama kekasihnya, Surya (Achmad Megantara). Namun, kebahagiaan mereka tidak berlangsung lama karena Suzzanna mendengar keluarganya dililit utang.
+            Jumlahnya pun cukup banyak dan waktu pelunasan sangat singkat sehingga akhirnya Suzzanna dijadikan sebagai jaminan.</item>
+
+        <item>The Nun 2 merupakan kelanjutan dari film horor The Nun yang tayang pada 2018 lalu. Film The Nun 2 disutradarai oleh Michael Chaves, sedangkan naskahnya ditulis oleh Richard Naing, Ian Goldberg dan Akela Cooper. The Nun 2 memiliki latar
+            film pada 1956 yakni empat tahun setelah film pertama dengan memindahkan latar tempat dari Rumania ke Prancis. Berawal dari Suster Irene yang berhasil selamat dari teror Valak di Rumania, kemudian mendapatkan kabar bahwa pendeta bernama
+            Maurice yang sekaligus temannya telah dirasuki oleh Valak. Sebab itulah, suster Irene memutuskan untuk pergi ke prancis</item>
+
+        <item>Kalian Pantas Mati mengisahkan tentang seorang remaja indigo bernama Raka yang dapat berkomunikasi dengan roh orang mati.Namun kemampuannya melihat roh-roh tersebut membuatnya kerap dirundung di sekolah. Raka lalu memutuskan pindah sekolah,
+            dari Jakarta kembali ke kampung halamannya di Bogor. Di Bogor, Rakka tinggal bersama sang paman, yakni Ajat, yang juga memiliki kemampuan yang sama seperti Rakka.Di sekolah barunya itu Rakka harus menghadapi gangguan sosok hantu jahat bermasker
+            yang membuat satu demi satu teman sekolahnya menghilang secara misterius.Rakka pun mencari tahu alasan di balik teror arwah bermasker yang penuh dendam. Saat Rakka mencari tahu siapa roh jahat itu, ia bertemu dengan hantu yang ia beri nama Windy.
+            Windy sendiri tidak mengingat apa yang terjadi padanya sampai akhirnya ia meninggal. Perlahan, Raka membantu mengembalikan ingatan Windy semasa hidup.</item>
+
+        <item>Qorin adalah film horor yang mengisahkan tentang kehidupan para siswi pesantren yang mengalami gangguan teror yang berasal dari jin qorin Mulanya kehidupan Zahra (Zulfa Maharani) yang tentram dan berprestasi harus pupus akibat tanggung jawab
+            yang diberikan oleh Ustaz Jaelani untuk menjaga seorang siswi baru bernama Yolanda (Aghniny Haque) Karena untuk mendapatkan nilai yang baik, Zahra rela menemani siswi baru yang terkenal nakal. Yolanda kerap menciptakan masalah, salah satunya
+            adalah mengajak Zahra dan siswi lainnya untuk melakukan ritual qorin. Karena harus menuruti dan menemani Yolanda membuat Zahra dan beberapa teman lainnya setuju untuk melakukan ritual ini..</item>
+
+        <item> Film The doll 3 ini menceritakan Pasca tragedi kecelakaan yang membuat kedua orang tua Tara (Jessica Mila) meninggal, kini Tara hanya memiliki adik laki-laki bernama Gian (Zizie Zidane) sebagai anggota keluarganya. Namun, kecelakaan tersebut
+            membuat Gian trauma, hingga Gian memilih untuk mengakhiri hidupnya. Tara sangat sedih dan menarik diri dari lingkungan sekitar, sampai membuat hubungannya dengan sang tunangan, Aryan (Winky Wiryawan), semakin merenggang dan mengakibatkan rencana
+            pernikahan mereka harus ditunda Tara yang ingin adiknya hidup lagi, meminta seorang dukun untuk memanggil arwah Gian. Akhirnya, arwah Gian berhasil hidup di sebuah boneka yang bernama Bobby. Tak seperti boneka pada umumnya, boneka Bobby dapat
+            bergerak seperti manusia. Oleh karena itu, Tara sangat bahagia dan kembali bersemangat untuk menata hidup. Bahkan, hubungan Tara dengan Aryan dan Mikha (Montserrat Gizelle), anak Aryan dari hubungan sebelumnya pun membaik. Mereka juga dapat
+            mempersiapkan pernikahan mereka.</item>
+
+        <item>Sejak kematian ayah dan ibunya, Ambar (Caitlin Halderman) dan Dika (Jovarel Callum) pindah ke sebuah panti jompo milik sahabat orangtua mereka dan anaknya, Agus (Shandy William). Panti Jompo Masa Toea ditinggali oleh tiga orang, yakni Nenek
+            Ani (Yati Surachman), Kakek Farid (Yayu Unru), dan Oma Ida (Rina Hassim). Ketiganya diurus oleh Rina (Taskya Namya), suster yang juga pacar Agus. Tidak lama setelah kepindahan Ambar dan Dika, cucu Oma Ida, Arthur (Junior Roberts) datang untuk
+            merayakan Idul Fitri. Ambar yang memiliki kemampuan melihat hal-hal mistis, secara tidak sengaja mendapatkan penglihatan dari masa lalu adalah Ivanna (Sonia Alyssa), perempuan Belanda mengalami penyiksaan oleh tentara Jepang yang mengakibatkan
+            ia kehilangan kepala. Serangkaian kejadian mistis mulai menghantui Ambar dan seluruh penghuni panti jompo, terlebih setelah mereka menemukan sebuah patung tanpa kepala di ruang bawah tanah beserta dengan piringan hitam yang berisi lagu menyeramkan.
+            Di hari Lebaran, keadaan semakin mencekam ketika penghuni panti menemukan Nenek Ani meninggal dengan keadaan tanpa kepala. Semua orang panik, terlebih ketika satu persatu misteri dendam Ivanna terungkap. Dengan keselamatan seluruh penghuni panti
+            kini terancam, Ambar dituntut untuk menyelesaikan dendam Ivanna, sebelum arwah itu merenggut nyawa mereka semua.</item>
+
+        <item>Berpuluh-puluh tahun lalu, Ustaz Qodrat (Vino G. Bastian) selaku pemilik ilmu rukiah, gagal merukiah Alif Al-Fatanah (Jason Bangun), anaknya sendiri, yang dirasuki setan bernama Assuala. Qodrat pun memutuskan untuk pulang ke pesantren di desa
+            tempat ia menuntut ilmu. Namun, ketika sampai di sana, Qodrat justru kebingungan karena pesantren tersebut diisi oleh gangguan-gangguan yang tak dapat dijelaskan. Hal ini mengakibatkan Qodrat harus merukiah Alif Amri (Keanu Azka), anak bungsu
+            Yasmin (Marsha Timothy), yang memiliki kesamaan nama dengan almarhum anaknya</item>
+
+    </string-array>
+    <array name="video_id">
+        <item>@raw/vid1</item>
+        <item>@raw/vid2</item>
+        <item>@raw/vid3</item>
+        <item>@raw/vid4</item>
+        <item>@raw/vid5</item>
+        <item>@raw/vid6</item>
+        <item>@raw/vid7</item>
+        <item>@raw/vid8</item>
+        <item>@raw/vid9</item>
+        <item>@raw/vid10</item>
+        <item>@raw/vid11</item>
+        <item>@raw/vid12</item>
+        <item>@raw/vid13</item>
+        <item>@raw/vid14</item>
+        <item>@raw/vid15</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/images1</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images3</item>
+        <item>@drawable/images4</item>
+        <item>@drawable/images5</item>
+        <item>@drawable/images6</item>
+        <item>@drawable/images7</item>
+        <item>@drawable/images8</item>
+        <item>@drawable/images9</item>
+        <item>@drawable/images10</item>
+        <item>@drawable/images11</item>
+        <item>@drawable/images12</item>
+        <item>@drawable/images13</item>
+        <item>@drawable/images14</item>
+        <item>@drawable/images15</item>
+
+    </integer-array>
+</resources>
